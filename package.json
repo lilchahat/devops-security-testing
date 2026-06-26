@@ -21,6 +21,6 @@
     "minimatch": "^10.2.5"
   },
   "devDependencies": {
-    "snyk": "^1.1305.1"
+    "snyk": "^1.1305.2"
   }
 }
